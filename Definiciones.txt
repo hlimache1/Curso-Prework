@@ -1,0 +1,6 @@
+HTML  : Es un lenguaje de marcado, que nos va a permitir estructurar      nuestro sitio web.
+
+Con esto podemos añadir botones, cajas de texto,imagenes. etc.
+
+CSS  : Es un lenguaje de hojas de estilo para estilizar nuestra estructura creada por HTML.
+
